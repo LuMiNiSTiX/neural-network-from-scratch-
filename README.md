@@ -2,7 +2,7 @@
 
 A high-performance, GPU-accelerated deep learning framework built from scratch in Python using **CuPy** for hardware acceleration and manual matrix calculus for backpropagation.
 
-Designed to train on the **MNIST Handwritten Digit Dataset**, reaching **~96%+ test accuracy** without relying on PyTorch, TensorFlow, or Autograd.
+Designed to train on the **MNIST Handwritten Digit Dataset**, reaching **~97%+ test accuracy** without relying on PyTorch, TensorFlow, or Autograd.
 
 ---
 
